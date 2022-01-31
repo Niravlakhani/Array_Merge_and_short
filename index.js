@@ -1,6 +1,7 @@
 console.log("Hello");
 console.log("Hello Nirav How Are You");
 console.log("File close and Reopen");
+console.log("File close and Reopen");
 
 let a = [1 , 4 , 7 , 8 , 10];
 
